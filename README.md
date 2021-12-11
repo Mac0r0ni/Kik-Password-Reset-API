@@ -6,7 +6,7 @@ Example usage of my unofficial API for communicating with Kik's password reset p
 I created it for my own projects, but figured I'd post an API to share it with others! If this turns out to be useful to people, I'll post more similar  projects in the future.
 
 # Usage
-`curl -X 'POST' -d 'emailOrUsername=<YOUR_USERNAME_OR_EMAIL_HERE>' https://KPR-API.stethosayshello.repl.co`
+`curl -X POST -d emailOrUsername=<EMAIL_OR_USERNAME_HERE> https://KPR-API.stethosayshello.repl.co`
 
 Alternativley, two example projects are posted here, they're pretty self explanitory.
 
