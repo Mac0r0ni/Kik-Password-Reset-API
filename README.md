@@ -1,10 +1,10 @@
 # About
-Example usage of my unofficial API for communicating with Kik's password reset page. 
-
-I created it for my own projects, but figured I'd post an API to share it with others! If this turns out to be useful to people, I'll post more similar projects in the future. **If anything goes offline or is having any issues, shoot me an email at StethoSpasm@gmail.com**
+Example usage of my unofficial API for communicating with Kik's password reset page.
 
 # Usage
 `curl -X POST -d emailOrUsername=<EMAIL_OR_USERNAME_HERE> https://KPR-API.stethosayshello.repl.co`
+
+![Curl_Example](https://im.ezgif.com/tmp/ezgif-1-ac35a1566ce8.gif)
 
 Alternativley, two example projects are posted here, they're pretty self explanitory.
 
