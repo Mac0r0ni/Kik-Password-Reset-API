@@ -16,8 +16,8 @@ result = result[18:-7]
 The API returns raw results from ws.kik.com, which tends to have some odd formatting. 
 The below 4 lines is just to remove that formatting.
 '''
-result = result.replace("\\", "")
 result = result.replace("\n", " ")
+result = result.replace("\\", "")
 while "  " in result:
   result = result.replace("  ", " ")
 print(bcolors.BLUE + result + bcolors.ENDC)
