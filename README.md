@@ -1,6 +1,3 @@
-# About
-Example usage of my unofficial API for communicating with Kik's password reset page.
-
 # Usage
 `curl -X POST -d emailOrUsername=<EMAIL_OR_USERNAME_HERE> https://KPR-API.stethosayshello.repl.co`
 
