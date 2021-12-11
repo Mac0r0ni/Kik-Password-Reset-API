@@ -1,3 +1,5 @@
+**If anything goes offline or is having any issues, shoot me an email at StethoSpasm@gmil.com**
+
 # About
 Example usage of my unofficial API for communicating with Kik's password reset page. 
 
